@@ -21,19 +21,19 @@ public class Calculator{
             System.out.println("Substraction is "+result );
             break;
 
-            case "*":
-            result = num1 * num2;
-            System.out.println("Multiplication is "+result );
-            break;
+            // case "*":
+            // result = num1 * num2;
+            // System.out.println("Multiplication is "+result );
+            // break;
 
-            case "/":
-            result = num1 / num2;
-            System.out.println("Division is "+result );
-            break;
+            // case "/":
+            // result = num1 / num2;
+            // System.out.println("Division is "+result );
+            // break;
 
-            default:
-            System.out.println("Invalid operation ");
-            break;
+            // default:
+            // System.out.println("Invalid operation ");
+            // break;
         }
 
     }
